@@ -1,6 +1,4 @@
-### Hi there 😄
-
-My name is Toyin, and I am a self-taught developer based in Coventry, Warwickshire in the Midlands, United Kingdom
+### Hi there 😄 My name is Toyin 😊, and I am a self-taught developer based in Coventry, Warwickshire in the Midlands, United Kingdom
 
 
 <!--
