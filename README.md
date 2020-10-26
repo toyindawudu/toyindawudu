@@ -1,5 +1,10 @@
-### Hi there 😄 My name is Toyin 😊, and I am a self-taught developer based in Coventry, Warwickshire in the Midlands, United Kingdom
+### My name is Toyin 😊, and I am a self-taught developer based in Coventry, Warwickshire in the Midlands, United Kingdom
 
+At the moment, I'm studying Vanilla JavaScript, Git & Github and ES6 
+
+Next
+      - React.JS
+      - Node.JS
 
 <!--
 **toyindawudu/toyindawudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
