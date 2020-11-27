@@ -3,8 +3,7 @@
 At the moment, I'm studying Vanilla JavaScript, Git & Github and ES6 
 
 Next
-      - React.JS
-      - Node.JS
+      - Vanilla JavaScript
 
 <!--
 **toyindawudu/toyindawudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
